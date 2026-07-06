@@ -1,3 +1,4 @@
+//Fatima Sani 6/7/26 full_adder
 module full_adder_bhv_modelling (a,b,Cin,sum,carry);
 input a,b,Cin;
 output sum,carry;
