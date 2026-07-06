@@ -1,3 +1,4 @@
+// Fatima Sani 6/7/26 Full subtractor structural modelling
 module full_adder_structural_modelling (a,b,Cin,sum,carry);
 input a,b,Cin;
 output sum,carry;
