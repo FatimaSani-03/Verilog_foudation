@@ -1,4 +1,5 @@
 
+//Fatima Sani 7/6/26 Full subtractor structural modelling 
 module full_subtractor_struc_modelling (a,b,cin,diff,borrow);
 input a,b,cin;
 output diff,borrow;
